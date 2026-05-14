@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there, I'm Gastón 👋
 
-<!--
-**GastF/GastF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Unity Game Developer** specializing in **gameplay and systems** **programming**.
+I focus on visuals, performance, and game feel — building polished experiences that are fun to play.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me
+- 📧 gastonnff@gmail.com
+- 💼 [linkedin.com/in/gastonf](https://linkedin.com/in/gastonf)
+- 🎮 [ghastt.itch.io](https://ghastt.itch.io)
+- 📄 [Resume / CV](https://drive.google.com/file/d/1IeNpHSAb82Mbjjlq1Vacc0SrDqllmy0v/view)
+
+---
+
+*My goal is to create memorable experiences that feel great to play.*
